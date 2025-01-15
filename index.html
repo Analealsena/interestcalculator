@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="assets/css/style.css">
+    
+    <title>Interest calculator</title>
+</head>
+<body>
+    <main id="container">
+        <div id="calculator">
+         <h2>
+            Calculadora de juros compostos
+         </h2>
+
+            <div id="input-box">
+              <div class="input-field"> 
+               <label for="value">Valor inicial(Capital):</label>
+               <input type="number" id="value">
+              </div><!--input-field value-->
+              
+              <div class="input-field"> 
+               <label for="fee"> Taxa de juros a.b:</label>
+               <input type="number" id="fee">
+              </div><!--input-field fee-->
+   
+              <div class="input-field"> 
+               <label for="time">Tempo de rendimento a.m:</label>
+               <input type="number" id="time">
+              </div><!--input-field time-->
+            </div> <!--input-box-->
+          <div id="result">
+            <h3> Resultado</h3>
+            <span id="total">
+                R$ 0,00
+            </span><!--TOTAL-->
+          </div><!--Result-->
+          <button id="calculate">
+            Calcular
+          </button>
+        </div><!--Calculator-->
+    </main><!--Container-->
+</body>
+</html>
