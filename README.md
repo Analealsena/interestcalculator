@@ -27,3 +27,11 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<br>
+### Imangens do projeto:
+<img 
+aling="center"
+widtd="250px"
+src="https://github.com/user-attachments/assets/feb6b316-6c7f-4619-ac7a-b43f6da8140f" 
+ />
+![Image](https://github.com/user-attachments/assets/bda1fc4e-5ab7-4d8b-8112-5777408a6e84)
